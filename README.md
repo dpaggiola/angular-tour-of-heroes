@@ -1,4 +1,4 @@
-# angular-tour-of-heroes
+# Angular: Tour of Heroes
 Tutorial web oficial Angular
 
 
